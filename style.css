@@ -1,6 +1,10 @@
-body {
-	background-image: url(background.gif);
+html {
+    background: black;
+    height: 100%;
+    overflow: hidden;
 }
-marquee {
-	color : #08BD0E;
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
 }
