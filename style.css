@@ -1,10 +1,7 @@
-html {
-    background: black;
-    height: 100%;
-    overflow: hidden;
+body{
+    background-color: black;
+    font-family: 'NemoyBold';
 }
-body {
-    margin: 0;
-    padding: 0;
-    height: 100%;
+marquee {
+	color : #08BD0E;
 }
