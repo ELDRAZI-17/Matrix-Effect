@@ -6,3 +6,6 @@ html, body {
 	font-family: 'NemoyBold';
 	overflow: hidden;
 }
+div {
+	rotate: 270deg;
+}
