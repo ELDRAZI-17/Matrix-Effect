@@ -1,7 +1,7 @@
 marquee {
 	color : #00FF41;
 	writing-mode: vertical-rl;
-	text-orientation: upright;
+	text-orientation: mixed;
 }
 html, body {
 	background-color: black;
