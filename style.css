@@ -8,5 +8,6 @@ html, body {
 }
 div {
 	rotate: 270deg;
-	zoom: 150%;
+	margin: 0;
+	padding: o;
 }
