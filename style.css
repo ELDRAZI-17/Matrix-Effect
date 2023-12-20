@@ -8,4 +8,5 @@ html, body {
 }
 div {
 	rotate: 270deg;
+	transform: translate(-300px);
 }
