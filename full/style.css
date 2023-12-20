@@ -1,0 +1,12 @@
+marquee {
+	color : #00FF41;
+}
+html, body {
+	background-color: black;
+	font-family: 'NemoyBold';
+	overflow: hidden;
+}
+div {
+	rotate: 270deg;
+	transform: translate(-300px);
+}
