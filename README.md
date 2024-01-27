@@ -1,5 +1,5 @@
 https://eldrazi-17.github.io/Matrix-Effect/
 
-Reload the page once after a few seconds to display the text correctly, and put it in full screen with F11.
+Put the page in full screen with F11 before.
 
 Does not work on mobile.
