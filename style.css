@@ -1,12 +1,11 @@
 body {
 	background-color: black;
-	font-family: 'NemoyBold';
+  font-family: Arial;
 	overflow: hidden;
 }
 
 i {
 	color : white;
-	font-family: Arial;
 }
 
 marquee {
