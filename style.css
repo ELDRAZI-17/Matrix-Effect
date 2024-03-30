@@ -4,6 +4,11 @@ body {
 	overflow: hidden;
 }
 
+h1 {
+	color : white;
+	text-shadow: gray 1px 0 10px;
+}
+
 i {
 	color : white;
 }
